@@ -56,7 +56,7 @@ arctan(1/sqrt(3)) = 0.5235987755982988
 Smallest N such that |b_{N+1}| <= 10^-6: 6
 
 Step 3: Verify the work in part 2
-n	Sn		|Sn - pi/6|
+`n	Sn		|Sn - pi/6|
 1	0.5773502692	0.0537514936
 2	0.5224025425	0.0011962331
 3	0.5238690996	0.0002713240
@@ -65,7 +65,7 @@ n	Sn		|Sn - pi/6|
 6	0.5235982269	0.0000005487
 7	0.5235988624	0.0000000868
 8	0.5235987619	0.0000000137
-...
+...`
 
 ### Mathematical Extensions
 The code explores different methods for approximating π:
